@@ -1,3 +1,6 @@
+# **Video**
+https://www.youtube.com/watch?v=ceSwKpRyJzE&t=56s
+
 # **Snake Game Clone** 
 (Created With C++/SFML)
 
@@ -9,9 +12,6 @@
 ### - Game Includes the ability to pause the Game by Pressing P 
 ### - Game Includes a Lost Menu with the ability to play again 
 
-
-## **Video**
-https://www.youtube.com/watch?v=ceSwKpRyJzE&t=56s
 
 
 ## **ScreenShot**
